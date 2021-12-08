@@ -40,4 +40,3 @@ function (floor){
 * Contains a plausible collection of test cases
 * Outputs are accurately derived from inputs
 * Summary is plausible
-  * Official answer is that it converts American floor numbering (no 13th floor, 1st floor is 1) to European floor numbering (13th floor, 1st floor is 0)
