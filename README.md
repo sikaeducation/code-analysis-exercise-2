@@ -22,6 +22,8 @@ function (floor){
 }
 ```
 
+Inputs and outputs should be valid JavaScript values!
+
 | Input | Output |
 | ----- | ------ |
 |       |        | 
